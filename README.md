@@ -1,2 +1,2 @@
-# xxl
-learning xxl
+# hello-world
+Hello world new project template.
